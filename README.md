@@ -53,7 +53,8 @@ I created an `index.html` file inside the `wwwroot` directory and added custom H
 
 The server successfully rendered the custom webpage.
 
-![Uploading 4-custom-webpage.png…]()
+<img width="1581" height="774" alt="4-custom-webpage" src="https://github.com/user-attachments/assets/7411ca62-a152-44dd-9300-e426455d9eec" />
+
 
 
 ---

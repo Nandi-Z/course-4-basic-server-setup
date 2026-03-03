@@ -19,7 +19,8 @@ The objective was to:
 
 I enabled Internet Information Services (IIS) through Windows Features.
 
-![IIS Enabled](screenshots/1-iis-enabled.png)
+<img width="1598" height="863" alt="1-iis-enabled" src="https://github.com/user-attachments/assets/3258b492-0a53-4cc0-87e3-0ae1739a0c13" />
+
 
 ---
 
@@ -29,7 +30,8 @@ After installation, I verified the server was running by accessing:
 
 http://localhost
 
-![Default IIS Page](screenshots/2-default-localhost.png)
+<img width="739" height="174" alt="2-default-localhost" src="https://github.com/user-attachments/assets/f700b801-8f4c-4599-b1e9-a0c8473fd565" />
+
 
 ---
 
@@ -41,7 +43,7 @@ C:\inetpub\wwwroot
 
 This is where website files are stored.
 
-![wwwroot Folder](screenshots/3-wwwroot-folder.png)
+<img width="1507" height="680" alt="3-wwwroot-folder" src="https://github.com/user-attachments/assets/5ebe2f82-98ea-42d3-b7a3-5e24b033befe" />
 
 ---
 
@@ -51,7 +53,8 @@ I created an `index.html` file inside the `wwwroot` directory and added custom H
 
 The server successfully rendered the custom webpage.
 
-![Custom Web Page](screenshots/4-custom-webpage.png)
+![Uploading 4-custom-webpage.png…]()
+
 
 ---
 
